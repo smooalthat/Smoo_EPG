@@ -40,7 +40,6 @@
     <channel id="Al Hadath">1:0:1:2:3B:800:DCA0000:0:0:0:</channel>
     <channel id="Sky News Arabia">1:0:19:7DC:14:800:DCA0000:0:0:0:</channel>
     <channel id="Asharq News">1:0:19:65:D098:77E:DCA0000:0:0:0:</channel>
-    <channel id="Al Ekhbaria">1:0:1:A2C:1A:2BE:DCA0000:0:0:0:</channel>
     <channel id="beIN Movies Premiere">1:0:19:20D5:1F68:E0:1040000:0:0:0::beIN MOVIES 1 HD:</channel>
     <channel id="beIN Movies Action">1:0:19:2200:1F86:E0:1040000:0:0:0::beIN MOVIES 2 HD:</channel>
     <channel id="beIN Movies Drama">1:0:19:9D0F:FB4:E0:1040000:0:0:0::beIN MOVIES 3 HD:</channel>
@@ -148,7 +147,7 @@
     <channel id="HBO East">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="HBO 2">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="HBO Comedy">1:0:1:0:0:0:0:0:0:0</channel>
-    <channel id="BBC One">1:0:1:0:0:0:0:0:0:0</channel>
+    <channel id="BBC One">1:0:19:4484:1000:1:CFDACE7:0:0:0</channel>
     <channel id="Sky Cinema Action">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="Sky Cinema Drama">1:0:1:0:0:0:0:0:0:0</channel>
 </channels>

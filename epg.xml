@@ -40,7 +40,6 @@
   <channel id="Al Hadath"><display-name lang="ar">Al Hadath</display-name></channel>
   <channel id="Sky News Arabia"><display-name lang="ar">Sky News Arabia</display-name></channel>
   <channel id="Asharq News"><display-name lang="ar">Asharq News</display-name></channel>
-  <channel id="Al Ekhbaria"><display-name lang="ar">Al Ekhbaria</display-name></channel>
   <channel id="beIN Movies Premiere"><display-name lang="ar">beIN Movies Premiere</display-name></channel>
   <channel id="beIN Movies Action"><display-name lang="ar">beIN Movies Action</display-name></channel>
   <channel id="beIN Movies Drama"><display-name lang="ar">beIN Movies Drama</display-name></channel>
@@ -231,19 +230,7 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115023000 +0300" stop="20260115034500 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115034500 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115034500 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115040000 +0300" channel="MBC 2">
+  <programme start="20260115023000 +0300" stop="20260115040000 +0300" channel="MBC 2">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -252,6 +239,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115050000 +0300" stop="20260115053000 +0300" channel="MBC 2">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC 2">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC 2">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -523,15 +518,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC 4">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC 4">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115053000 +0300" channel="MBC 4">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC 4">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -611,15 +602,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="MBC 5">
+  <programme start="20260115052500 +0300" stop="20260115052500 +0300" channel="MBC 5">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115043000 +0300" stop="20260115052500 +0300" channel="MBC 5">
+  <programme start="20260115052500 +0300" stop="20260115052500 +0300" channel="MBC 5">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -715,18 +702,6 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115023000 +0300" stop="20260115043000 +0300" channel="MBC Max">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -736,6 +711,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115043000 +0300" stop="20260115050000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="MBC Max">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -795,6 +778,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115170000 +0300" channel="MBC Max">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -835,15 +822,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC Drama">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="MBC Drama">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -931,19 +914,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115044500 +0300" stop="20260115044500 +0300" channel="MBC Drama+">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115044500 +0300" stop="20260115044500 +0300" channel="MBC Drama+">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115044500 +0300" stop="20260115044500 +0300" channel="MBC Drama+">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115044500 +0300" stop="20260115053000 +0300" channel="MBC Drama+">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Drama+">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Drama+">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1031,15 +1010,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="MBC Bollywood">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="MBC Bollywood">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115043000 +0300" stop="20260115053000 +0300" channel="MBC Bollywood">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1087,15 +1062,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115044500 +0300" stop="20260115044500 +0300" channel="MBC Masr">
+  <programme start="20260115054500 +0300" stop="20260115054500 +0300" channel="MBC Masr">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115044500 +0300" stop="20260115044500 +0300" channel="MBC Masr">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115044500 +0300" stop="20260115054500 +0300" channel="MBC Masr">
+  <programme start="20260115054500 +0300" stop="20260115054500 +0300" channel="MBC Masr">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1199,19 +1170,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC Iraq">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115050000 +0300" stop="20260115053000 +0300" channel="MBC Iraq">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1283,23 +1246,19 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115030000 +0300" stop="20260115043000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115043000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1411,23 +1370,19 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115023000 +0300" stop="20260115023000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115023000 +0300" stop="20260115040000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1555,27 +1510,19 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Khalijia">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Khalijia">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Khalijia">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Khalijia">
+  <programme start="20260115050000 +0300" stop="20260115053000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115050000 +0300" stop="20260115053000 +0300" channel="Rotana Khalijia">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Rotana Khalijia">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1640,6 +1587,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115123000 +0300" stop="20260115143000 +0300" channel="Rotana Khalijia">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1803,19 +1754,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -1943,6 +1890,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -2031,19 +1982,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2096,6 +2043,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115130000 +0300" stop="20260115150000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2163,19 +2114,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2296,6 +2243,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115140000 +0300" stop="20260115150000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2519,19 +2470,7 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115020000 +0300" stop="20260115022000 +0300" channel="beIN Movies Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115022000 +0300" stop="20260115022000 +0300" channel="beIN Movies Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115022000 +0300" stop="20260115022000 +0300" channel="beIN Movies Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115022000 +0300" stop="20260115024500 +0300" channel="beIN Movies Action">
+  <programme start="20260115020000 +0300" stop="20260115024500 +0300" channel="beIN Movies Action">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2544,6 +2483,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115044500 +0300" stop="20260115050000 +0300" channel="beIN Movies Action">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Movies Action">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Movies Action">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2596,6 +2543,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115131500 +0300" stop="20260115150000 +0300" channel="beIN Movies Action">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="beIN Movies Action">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2727,6 +2678,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="beIN Movies Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115143000 +0300" stop="20260115163000 +0300" channel="beIN Movies Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -2783,19 +2738,7 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115033000 +0300" stop="20260115034500 +0300" channel="beIN Movies Family">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115034500 +0300" channel="beIN Movies Family">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115034500 +0300" channel="beIN Movies Family">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115034500 +0300" stop="20260115051500 +0300" channel="beIN Movies Family">
+  <programme start="20260115033000 +0300" stop="20260115051500 +0300" channel="beIN Movies Family">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2804,6 +2747,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115051500 +0300" stop="20260115053000 +0300" channel="beIN Movies Family">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="beIN Movies Family">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="beIN Movies Family">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -2947,19 +2898,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="beIN Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -3087,6 +3034,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="beIN Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="beIN Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -3191,19 +3142,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 1">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 1">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 1">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="beIN Series 1">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Series 1">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Series 1">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -3343,6 +3290,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="beIN Series 1">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="beIN Series 1">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -3447,19 +3398,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="beIN Series 2">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="beIN Series 2">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Series 2">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="beIN Series 2">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -3580,6 +3527,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115140000 +0300" stop="20260115150000 +0300" channel="beIN Series 2">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="beIN Series 2">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -3747,6 +3698,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="DMC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115191700 +0300" channel="DMC">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -3795,19 +3750,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="DMC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="DMC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="DMC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -3923,6 +3874,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="DMC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115155500 +0300" channel="DMC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -4015,19 +3970,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115053000 +0300" channel="CBC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="CBC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="CBC">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -4091,19 +4042,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="CBC Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="CBC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="CBC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="CBC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -4212,6 +4159,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115140000 +0300" stop="20260115150000 +0300" channel="CBC Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="CBC Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -4591,6 +4542,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="ON Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="ON Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -4703,7 +4658,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115130000 +0300" stop="20260115163000 +0300" channel="Al Hayat">
+  <programme start="20260115130000 +0300" stop="20260115143000 +0300" channel="Al Hayat">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115143000 +0300" stop="20260115163000 +0300" channel="Al Hayat">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -4787,19 +4746,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Nahar Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Nahar Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Nahar Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Al Nahar Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Nahar Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Nahar Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -4920,6 +4875,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115140000 +0300" stop="20260115150000 +0300" channel="Al Nahar Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Al Nahar Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5199,18 +5158,6 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Mehwar">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Mehwar">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Mehwar">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115100000 +0300" channel="Al Mehwar">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -5224,6 +5171,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115130000 +0300" stop="20260115140000 +0300" channel="Al Mehwar">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115140000 +0300" stop="20260115140000 +0300" channel="Al Mehwar">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115140000 +0300" stop="20260115140000 +0300" channel="Al Mehwar">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5327,19 +5282,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Nile Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Nile Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Nile Drama">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Nile Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Nile Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Nile Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5467,6 +5418,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Nile Drama">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115154500 +0300" channel="Nile Drama">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -5555,19 +5510,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Nile Life">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Nile Life">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Nile Life">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="Nile Life">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Nile Life">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Nile Life">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5683,19 +5634,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Maspero Zaman">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Maspero Zaman">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Maspero Zaman">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115050000 +0300" stop="20260115060000 +0300" channel="Maspero Zaman">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115060000 +0300" stop="20260115060000 +0300" channel="Maspero Zaman">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115060000 +0300" stop="20260115060000 +0300" channel="Maspero Zaman">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5807,7 +5754,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="Maspero Zaman">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115143000 +0300" stop="20260115151500 +0300" channel="Maspero Zaman">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115151500 +0300" stop="20260115151500 +0300" channel="Maspero Zaman">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5867,19 +5822,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115010000 +0300" stop="20260115040000 +0300" channel="Al Masriyah">
+  <programme start="20260115010000 +0300" stop="20260115050000 +0300" channel="Al Masriyah">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Masriyah">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Masriyah">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Masriyah">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Al Masriyah">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Masriyah">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5927,6 +5878,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Al Masriyah">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115183000 +0300" channel="Al Masriyah">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -5939,19 +5894,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115010000 +0300" stop="20260115040000 +0300" channel="Al Oula">
+  <programme start="20260115010000 +0300" stop="20260115050000 +0300" channel="Al Oula">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Oula">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Oula">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Oula">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Al Oula">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Al Oula">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -5999,6 +5950,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Al Oula">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115183000 +0300" channel="Al Oula">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -6015,19 +5970,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115040000 +0300" channel="Dubai TV">
+  <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Dubai TV">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Dubai TV">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Dubai TV">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -6151,23 +6102,19 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Dubai One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Dubai One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Dubai One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115030000 +0300" stop="20260115043000 +0300" channel="Dubai One">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115043000 +0300" stop="20260115050000 +0300" channel="Dubai One">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Dubai One">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Dubai One">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -6323,6 +6270,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="Sama Dubai">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115143000 +0300" stop="20260115163000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -6472,6 +6423,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115133000 +0300" stop="20260115150000 +0300" channel="Abu Dhabi TV">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Abu Dhabi TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -6747,19 +6702,7 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115020500 +0300" stop="20260115030000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115030000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115030000 +0300" stop="20260115050000 +0300" channel="Saudi TV">
+  <programme start="20260115020500 +0300" stop="20260115050000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -6780,6 +6723,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115063000 +0300" stop="20260115093000 +0300" channel="Saudi TV">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115093000 +0300" stop="20260115093000 +0300" channel="Saudi TV">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115093000 +0300" stop="20260115093000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -6919,19 +6870,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="SBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="SBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="SBC">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="SBC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="SBC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="SBC">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -7024,6 +6971,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115143000 +0300" stop="20260115150000 +0300" channel="SBC">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="SBC">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -7231,6 +7182,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Thikrayat">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115170000 +0300" channel="Thikrayat">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -7388,6 +7343,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115100000 +0300" stop="20260115143000 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -7667,19 +7626,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Roya">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Roya">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Roya">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115053000 +0300" channel="Roya">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Roya">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Roya">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -7763,23 +7718,19 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="LBCI">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="LBCI">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="LBCI">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115090000 +0300" channel="LBCI">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115090000 +0300" stop="20260115110000 +0300" channel="LBCI">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115110000 +0300" stop="20260115110000 +0300" channel="LBCI">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115110000 +0300" stop="20260115110000 +0300" channel="LBCI">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -7911,6 +7862,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="MTV Lebanon">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115143000 +0300" stop="20260115144000 +0300" channel="MTV Lebanon">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -7963,6 +7918,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="Al Jadeed">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115143000 +0300" stop="20260115163000 +0300" channel="Al Jadeed">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -7987,15 +7946,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Sharqiya">
+  <programme start="20260115052000 +0300" stop="20260115052000 +0300" channel="Al Sharqiya">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Al Sharqiya">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115052000 +0300" channel="Al Sharqiya">
+  <programme start="20260115052000 +0300" stop="20260115052000 +0300" channel="Al Sharqiya">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -8227,6 +8182,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Al Iraqiya">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115170000 +0300" channel="Al Iraqiya">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -8251,19 +8210,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="Al Aoula Maroc">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="Al Aoula Maroc">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115043000 +0300" stop="20260115043000 +0300" channel="Al Aoula Maroc">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115043000 +0300" stop="20260115073000 +0300" channel="Al Aoula Maroc">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115073000 +0300" stop="20260115073000 +0300" channel="Al Aoula Maroc">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115073000 +0300" stop="20260115073000 +0300" channel="Al Aoula Maroc">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -8335,7 +8290,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115142500 +0300" stop="20260115144000 +0300" channel="Al Aoula Maroc">
+  <programme start="20260115142500 +0300" stop="20260115143000 +0300" channel="Al Aoula Maroc">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115143000 +0300" stop="20260115144000 +0300" channel="Al Aoula Maroc">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -8391,18 +8350,6 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115041500 +0300" stop="20260115041500 +0300" channel="2M Monde">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115041500 +0300" stop="20260115041500 +0300" channel="2M Monde">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115041500 +0300" stop="20260115041500 +0300" channel="2M Monde">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115041500 +0300" stop="20260115050500 +0300" channel="2M Monde">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -8411,11 +8358,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115050500 +0300" stop="20260115050500 +0300" channel="2M Monde">
+  <programme start="20260115050500 +0300" stop="20260115070000 +0300" channel="2M Monde">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115050500 +0300" stop="20260115070000 +0300" channel="2M Monde">
+  <programme start="20260115070000 +0300" stop="20260115070000 +0300" channel="2M Monde">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115070000 +0300" stop="20260115070000 +0300" channel="2M Monde">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -8496,6 +8447,10 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115135000 +0300" stop="20260115143000 +0300" channel="2M Monde">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115143000 +0300" stop="20260115143000 +0300" channel="2M Monde">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -8895,6 +8850,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115144500 +0300" stop="20260115144500 +0300" channel="Star Movies">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115144500 +0300" stop="20260115145000 +0300" channel="Star Movies">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -9059,7 +9018,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115144500 +0300" stop="20260115153500 +0300" channel="Star World">
+  <programme start="20260115144500 +0300" stop="20260115152500 +0300" channel="Star World">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115152500 +0300" stop="20260115153500 +0300" channel="Star World">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9143,19 +9106,7 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115030000 +0300" stop="20260115041000 +0300" channel="Star Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115041000 +0300" stop="20260115041000 +0300" channel="Star Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115041000 +0300" stop="20260115041000 +0300" channel="Star Action">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115041000 +0300" stop="20260115042000 +0300" channel="Star Action">
+  <programme start="20260115030000 +0300" stop="20260115042000 +0300" channel="Star Action">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9168,6 +9119,14 @@
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
   <programme start="20260115054500 +0300" stop="20260115055500 +0300" channel="Star Action">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115055500 +0300" stop="20260115055500 +0300" channel="Star Action">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115055500 +0300" stop="20260115055500 +0300" channel="Star Action">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9291,15 +9250,11 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Zee Alwan">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Zee Alwan">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Zee Alwan">
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9367,6 +9322,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Zee Alwan">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -9411,19 +9370,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="iFilm">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="iFilm">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="iFilm">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="iFilm">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="iFilm">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="iFilm">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9547,6 +9502,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="iFilm">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="iFilm">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -9615,19 +9574,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115024500 +0300" stop="20260115033000 +0300" channel="Mix">
+  <programme start="20260115024500 +0300" stop="20260115053000 +0300" channel="Mix">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115033000 +0300" stop="20260115033000 +0300" channel="Mix">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Mix">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115033000 +0300" stop="20260115033000 +0300" channel="Mix">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115033000 +0300" stop="20260115053000 +0300" channel="Mix">
+  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="Mix">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9699,19 +9654,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Mix One">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -9835,6 +9786,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="Mix One">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -9915,19 +9870,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix Bel Araby">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix Bel Araby">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Mix Bel Araby">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Mix Bel Araby">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Mix Bel Araby">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Mix Bel Araby">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -10055,6 +10006,10 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
+  <programme start="20260115150000 +0300" stop="20260115150000 +0300" channel="Mix Bel Araby">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
   <programme start="20260115150000 +0300" stop="20260115160000 +0300" channel="Mix Bel Araby">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
@@ -10115,23 +10070,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115044000 +0300" stop="20260115044000 +0300" channel="National Geographic AD">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115044000 +0300" stop="20260115044000 +0300" channel="National Geographic AD">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115044000 +0300" stop="20260115053000 +0300" channel="National Geographic AD">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115053000 +0300" stop="20260115053000 +0300" channel="National Geographic AD">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115053000 +0300" stop="20260115055000 +0300" channel="National Geographic AD">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115055000 +0300" stop="20260115055000 +0300" channel="National Geographic AD">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115055000 +0300" stop="20260115055000 +0300" channel="National Geographic AD">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
@@ -10183,19 +10130,15 @@
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Cartoon Network Arabic">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Cartoon Network Arabic">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
-  <programme start="20260115040000 +0300" stop="20260115040000 +0300" channel="Cartoon Network Arabic">
-    <title lang="ar"></title>
-    <desc lang="ar">Smoo Local Grabber</desc>
-  </programme>
   <programme start="20260115040000 +0300" stop="20260115050000 +0300" channel="Cartoon Network Arabic">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Cartoon Network Arabic">
+    <title lang="ar"></title>
+    <desc lang="ar">Smoo Local Grabber</desc>
+  </programme>
+  <programme start="20260115050000 +0300" stop="20260115050000 +0300" channel="Cartoon Network Arabic">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
   </programme>
