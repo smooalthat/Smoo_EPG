@@ -146,10 +146,18 @@
   <channel id="Sharjah_Sport"><display-name lang="ar">Sharjah_Sport</display-name></channel>
   <channel id="HBO East"><display-name lang="ar">HBO East</display-name></channel>
   <channel id="HBO 2"><display-name lang="ar">HBO 2</display-name></channel>
+  <channel id="HBO Signature"><display-name lang="ar">HBO Signature</display-name></channel>
+  <channel id="HBO Family"><display-name lang="ar">HBO Family</display-name></channel>
   <channel id="HBO Comedy"><display-name lang="ar">HBO Comedy</display-name></channel>
+  <channel id="HBO Zone"><display-name lang="ar">HBO Zone</display-name></channel>
   <channel id="BBC One"><display-name lang="ar">BBC One</display-name></channel>
+  <channel id="BBC Two"><display-name lang="ar">BBC Two</display-name></channel>
+  <channel id="ITV 1"><display-name lang="ar">ITV 1</display-name></channel>
   <channel id="Sky Cinema Action"><display-name lang="ar">Sky Cinema Action</display-name></channel>
+  <channel id="Sky Cinema Comedy"><display-name lang="ar">Sky Cinema Comedy</display-name></channel>
   <channel id="Sky Cinema Drama"><display-name lang="ar">Sky Cinema Drama</display-name></channel>
+  <channel id="Sky Cinema Family"><display-name lang="ar">Sky Cinema Family</display-name></channel>
+  <channel id="Sky Cinema Sci-Fi"><display-name lang="ar">Sky Cinema Sci-Fi</display-name></channel>
   <programme start="20260115064500 +0300" stop="20260115064500 +0300" channel="MBC 1">
     <title lang="ar"></title>
     <desc lang="ar">Smoo Local Grabber</desc>
