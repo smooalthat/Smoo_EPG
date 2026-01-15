@@ -148,7 +148,7 @@
     <channel id="HBO East">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="HBO 2">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="HBO Comedy">1:0:1:0:0:0:0:0:0:0</channel>
-    <channel id="BBC One">1:0:19:4484:1000:1:CFDACE7:0:0:0</channel>
+    <channel id="BBC One">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="Sky Cinema Action">1:0:1:0:0:0:0:0:0:0</channel>
     <channel id="Sky Cinema Drama">1:0:1:0:0:0:0:0:0:0</channel>
 </channels>
