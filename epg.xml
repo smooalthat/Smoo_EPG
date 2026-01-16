@@ -30,16 +30,34 @@
   <programme start="20260116040000 +0300" stop="20260116050000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116050000 +0300" stop="20260116070000 +0300" channel="MBC 1">
+  <programme start="20260116050000 +0300" stop="20260116060000 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116060000 +0300" stop="20260116063000 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116063000 +0300" stop="20260116070000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="MBC 1">
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116090000 +0300" stop="20260116100000 +0300" channel="MBC 1">
+  <programme start="20260116070000 +0300" stop="20260116074000 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116074000 +0300" stop="20260116081500 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116081500 +0300" stop="20260116090000 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090500 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090500 +0300" stop="20260116100000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116100000 +0300" stop="20260116113000 +0300" channel="MBC 1">
@@ -66,37 +84,22 @@
   <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116193000 +0300" stop="20260116201500 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116205500 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116205500 +0300" stop="20260116213000 +0300" channel="MBC 1">
+  <programme start="20260116193000 +0300" stop="20260116213000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116214500 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116214500 +0300" stop="20260116221500 +0300" channel="MBC 1">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116221500 +0300" stop="20260116230000 +0300" channel="MBC 1">
+  <programme start="20260116213000 +0300" stop="20260116230000 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260117001500 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260117001500 +0300" stop="20260117001500 +0300" channel="MBC 1">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260117001500 +0300" stop="20260117001500 +0300" channel="MBC 1">
     <title lang="ar"></title>
   </programme>
   <programme start="20260117001500 +0300" stop="20260117001500 +0300" channel="MBC 1">
@@ -127,6 +130,9 @@
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116073000 +0300" channel="MBC 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116073000 +0300" stop="20260116083000 +0300" channel="MBC 2">
@@ -162,25 +168,19 @@
   <programme start="20260116180000 +0300" stop="20260116183000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="MBC 2">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116183000 +0300" stop="20260116200000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116203000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116203000 +0300" stop="20260116203000 +0300" channel="MBC 2">
+  <programme start="20260116203000 +0300" stop="20260116223000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116203000 +0300" stop="20260116223000 +0300" channel="MBC 2">
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="MBC 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="MBC 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="MBC 2">
@@ -249,7 +249,10 @@
   <programme start="20260116045800 +0300" stop="20260116052800 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116052800 +0300" stop="20260116060000 +0300" channel="MBC 3">
+  <programme start="20260116052800 +0300" stop="20260116053000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116053000 +0300" stop="20260116060000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116060000 +0300" stop="20260116060900 +0300" channel="MBC 3">
@@ -258,16 +261,28 @@
   <programme start="20260116060900 +0300" stop="20260116063000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116063000 +0300" stop="20260116063000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116063000 +0300" stop="20260116065000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116065000 +0300" stop="20260116072100 +0300" channel="MBC 3">
+  <programme start="20260116065000 +0300" stop="20260116070000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116072100 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116072100 +0300" stop="20260116073000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116073000 +0300" stop="20260116080000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116082800 +0300" channel="MBC 3">
@@ -276,10 +291,16 @@
   <programme start="20260116082800 +0300" stop="20260116083000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116083000 +0300" stop="20260116083000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116083000 +0300" stop="20260116085900 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116085900 +0300" stop="20260116090000 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116092900 +0300" channel="MBC 3">
@@ -405,16 +426,7 @@
   <programme start="20260116193000 +0300" stop="20260116193900 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116193900 +0300" stop="20260116195900 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116195900 +0300" stop="20260116195900 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116195900 +0300" stop="20260116195900 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116195900 +0300" stop="20260116200000 +0300" channel="MBC 3">
+  <programme start="20260116193900 +0300" stop="20260116200000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116201100 +0300" channel="MBC 3">
@@ -423,25 +435,16 @@
   <programme start="20260116201100 +0300" stop="20260116203000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116203000 +0300" stop="20260116203000 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116203000 +0300" stop="20260116204300 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116204300 +0300" stop="20260116210000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116210000 +0300" stop="20260116211400 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116211400 +0300" stop="20260116212900 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116212900 +0300" stop="20260116213000 +0300" channel="MBC 3">
+  <programme start="20260116211400 +0300" stop="20260116213000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116214600 +0300" channel="MBC 3">
@@ -450,34 +453,28 @@
   <programme start="20260116214600 +0300" stop="20260116220000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116220000 +0300" stop="20260116222500 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116222500 +0300" stop="20260116223000 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116223000 +0300" stop="20260116225500 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116225500 +0300" stop="20260116225600 +0300" channel="MBC 3">
+  <programme start="20260116222500 +0300" stop="20260116225600 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116225600 +0300" stop="20260116230000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116230000 +0300" stop="20260116232400 +0300" channel="MBC 3">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116232400 +0300" stop="20260116232600 +0300" channel="MBC 3">
+  <programme start="20260116230000 +0300" stop="20260116232600 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116232600 +0300" stop="20260116233000 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233000 +0300" stop="20260116235600 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116235600 +0300" stop="20260116235600 +0300" channel="MBC 3">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116235600 +0300" stop="20260116235600 +0300" channel="MBC 3">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116235600 +0300" stop="20260116235700 +0300" channel="MBC 3">
@@ -537,13 +534,25 @@
   <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116060000 +0300" stop="20260116070000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116120000 +0300" channel="MBC 4">
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116120000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116120000 +0300" stop="20260116120000 +0300" channel="MBC 4">
@@ -567,49 +576,31 @@
   <programme start="20260116180000 +0300" stop="20260116180000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116180000 +0300" stop="20260116194500 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116194500 +0300" stop="20260116194500 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116194500 +0300" stop="20260116194500 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116194500 +0300" stop="20260116200000 +0300" channel="MBC 4">
+  <programme start="20260116180000 +0300" stop="20260116200000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116203000 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116203000 +0300" stop="20260116210400 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210400 +0300" stop="20260116213200 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213200 +0300" stop="20260116220500 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220500 +0300" stop="20260116223000 +0300" channel="MBC 4">
+  <programme start="20260116200000 +0300" stop="20260116223000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116223000 +0300" stop="20260116225200 +0300" channel="MBC 4">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116225200 +0300" stop="20260116231500 +0300" channel="MBC 4">
+  <programme start="20260116223000 +0300" stop="20260116231500 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116231500 +0300" stop="20260116232000 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116232000 +0300" stop="20260116234100 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116234100 +0300" stop="20260116234100 +0300" channel="MBC 4">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116234100 +0300" stop="20260116234100 +0300" channel="MBC 4">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116234100 +0300" stop="20260117014100 +0300" channel="MBC 4">
@@ -663,13 +654,19 @@
   <programme start="20260116060500 +0300" stop="20260116060500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060500 +0300" stop="20260116065500 +0300" channel="MBC 5">
+  <programme start="20260116060500 +0300" stop="20260116061000 +0300" channel="MBC 5">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116061000 +0300" stop="20260116065500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116065500 +0300" stop="20260116070500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070500 +0300" stop="20260116075000 +0300" channel="MBC 5">
+  <programme start="20260116070500 +0300" stop="20260116073500 +0300" channel="MBC 5">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073500 +0300" stop="20260116075000 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116075000 +0300" stop="20260116080000 +0300" channel="MBC 5">
@@ -714,46 +711,31 @@
   <programme start="20260116190000 +0300" stop="20260116191500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116191500 +0300" stop="20260116191500 +0300" channel="MBC 5">
+  <programme start="20260116191500 +0300" stop="20260116202000 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116191500 +0300" stop="20260116191500 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116191500 +0300" stop="20260116191500 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116191500 +0300" stop="20260116200000 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116202000 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116202000 +0300" stop="20260116205000 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116205000 +0300" stop="20260116210000 +0300" channel="MBC 5">
+  <programme start="20260116202000 +0300" stop="20260116210000 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116211000 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116211000 +0300" stop="20260116212500 +0300" channel="MBC 5">
+  <programme start="20260116211000 +0300" stop="20260116214500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116212500 +0300" stop="20260116214500 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116214500 +0300" stop="20260116221500 +0300" channel="MBC 5">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116221500 +0300" stop="20260116223500 +0300" channel="MBC 5">
+  <programme start="20260116214500 +0300" stop="20260116223500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223500 +0300" stop="20260116230000 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116231500 +0300" channel="MBC 5">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116231500 +0300" stop="20260116231500 +0300" channel="MBC 5">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116231500 +0300" stop="20260116231500 +0300" channel="MBC 5">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116231500 +0300" stop="20260116232400 +0300" channel="MBC 5">
@@ -807,7 +789,13 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116120000 +0300" channel="MBC Action">
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC Action">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="MBC Action">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116120000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116120000 +0300" stop="20260116130000 +0300" channel="MBC Action">
@@ -828,22 +816,10 @@
   <programme start="20260116183000 +0300" stop="20260116193000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC Action">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC Action">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116193000 +0300" stop="20260116193000 +0300" channel="MBC Action">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116193000 +0300" stop="20260116200000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116203500 +0300" channel="MBC Action">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116203500 +0300" stop="20260116210000 +0300" channel="MBC Action">
+  <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116213000 +0300" channel="MBC Action">
@@ -853,6 +829,12 @@
     <title lang="ar"></title>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116230000 +0300" channel="MBC Action">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Action">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Action">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260117000000 +0300" channel="MBC Action">
@@ -885,7 +867,13 @@
   <programme start="20260116063000 +0300" stop="20260116063000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116063000 +0300" stop="20260116063000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116063000 +0300" stop="20260116083000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116083000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116083000 +0300" stop="20260116090000 +0300" channel="MBC Max">
@@ -921,28 +909,22 @@
   <programme start="20260116183000 +0300" stop="20260116190000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116190000 +0300" stop="20260116203000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116203000 +0300" stop="20260116210000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="MBC Max">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116210000 +0300" stop="20260116223000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116230000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Max">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Max">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116233000 +0300" channel="MBC Max">
@@ -1002,19 +984,31 @@
   <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="MBC Drama">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116060000 +0300" stop="20260116070000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="MBC Drama">
+  <programme start="20260116070000 +0300" stop="20260116070500 +0300" channel="MBC Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070500 +0300" stop="20260116075500 +0300" channel="MBC Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116075500 +0300" stop="20260116080000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="MBC Drama">
+  <programme start="20260116080000 +0300" stop="20260116085500 +0300" channel="MBC Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116085500 +0300" stop="20260116090000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="MBC Drama">
@@ -1080,19 +1074,7 @@
   <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116190000 +0300" stop="20260116200000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="MBC Drama">
@@ -1104,13 +1086,7 @@
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116215500 +0300" channel="MBC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116215500 +0300" stop="20260116220000 +0300" channel="MBC Drama">
+  <programme start="20260116210000 +0300" stop="20260116220000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="MBC Drama">
@@ -1122,10 +1098,13 @@
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Drama">
+  <programme start="20260116230000 +0300" stop="20260116235000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116230000 +0300" stop="20260116235000 +0300" channel="MBC Drama">
+  <programme start="20260116235000 +0300" stop="20260116235000 +0300" channel="MBC Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116235000 +0300" stop="20260116235000 +0300" channel="MBC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116235000 +0300" stop="20260117000000 +0300" channel="MBC Drama">
@@ -1155,13 +1134,19 @@
   <programme start="20260116043000 +0300" stop="20260116053000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116053000 +0300" stop="20260116073000 +0300" channel="MBC Bollywood">
+  <programme start="20260116053000 +0300" stop="20260116063000 +0300" channel="MBC Bollywood">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116063000 +0300" stop="20260116073000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116073000 +0300" stop="20260116095500 +0300" channel="MBC Bollywood">
+  <programme start="20260116073000 +0300" stop="20260116083000 +0300" channel="MBC Bollywood">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116095500 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116095500 +0300" stop="20260116101500 +0300" channel="MBC Bollywood">
@@ -1191,19 +1176,16 @@
   <programme start="20260116194000 +0300" stop="20260116195000 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116195000 +0300" stop="20260116204000 +0300" channel="MBC Bollywood">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116204000 +0300" stop="20260116204000 +0300" channel="MBC Bollywood">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116204000 +0300" stop="20260116204000 +0300" channel="MBC Bollywood">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116204000 +0300" stop="20260116214500 +0300" channel="MBC Bollywood">
+  <programme start="20260116195000 +0300" stop="20260116214500 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116214500 +0300" stop="20260116225500 +0300" channel="MBC Bollywood">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116225500 +0300" stop="20260116225500 +0300" channel="MBC Bollywood">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116225500 +0300" stop="20260116225500 +0300" channel="MBC Bollywood">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116225500 +0300" stop="20260117000000 +0300" channel="MBC Bollywood">
@@ -1239,6 +1221,9 @@
   <programme start="20260116063000 +0300" stop="20260116080000 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="MBC Masr">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116080000 +0300" stop="20260116091500 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
@@ -1257,25 +1242,19 @@
   <programme start="20260116203000 +0300" stop="20260116203000 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116203000 +0300" stop="20260116205000 +0300" channel="MBC Masr">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116205000 +0300" stop="20260116205000 +0300" channel="MBC Masr">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116205000 +0300" stop="20260116205000 +0300" channel="MBC Masr">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116205000 +0300" stop="20260116220000 +0300" channel="MBC Masr">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="MBC Masr">
+  <programme start="20260116203000 +0300" stop="20260116220000 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116220000 +0300" stop="20260116223000 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116230000 +0300" channel="MBC Masr">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Masr">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Masr">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260117000000 +0300" channel="MBC Masr">
@@ -1329,7 +1308,13 @@
   <programme start="20260116061000 +0300" stop="20260116064400 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116064400 +0300" stop="20260116080000 +0300" channel="MBC Masr 2">
+  <programme start="20260116064400 +0300" stop="20260116065500 +0300" channel="MBC Masr 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116065500 +0300" stop="20260116074500 +0300" channel="MBC Masr 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116074500 +0300" stop="20260116080000 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116082000 +0300" channel="MBC Masr 2">
@@ -1368,28 +1353,22 @@
   <programme start="20260116190000 +0300" stop="20260116195000 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116195000 +0300" stop="20260116200000 +0300" channel="MBC Masr 2">
+  <programme start="20260116195000 +0300" stop="20260116202500 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="MBC Masr 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="MBC Masr 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116202500 +0300" channel="MBC Masr 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116202500 +0300" stop="20260116211500 +0300" channel="MBC Masr 2">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116211500 +0300" stop="20260116212000 +0300" channel="MBC Masr 2">
+  <programme start="20260116202500 +0300" stop="20260116212000 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116212000 +0300" stop="20260116223000 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116230000 +0300" channel="MBC Masr 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Masr 2">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Masr 2">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116231200 +0300" channel="MBC Masr 2">
@@ -1437,13 +1416,22 @@
   <programme start="20260116054500 +0300" stop="20260116060000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060000 +0300" stop="20260116082000 +0300" channel="MBC Iraq">
+  <programme start="20260116060000 +0300" stop="20260116070000 +0300" channel="MBC Iraq">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="MBC Iraq">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116082000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116082000 +0300" stop="20260116084500 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116084500 +0300" stop="20260116110000 +0300" channel="MBC Iraq">
+  <programme start="20260116084500 +0300" stop="20260116090000 +0300" channel="MBC Iraq">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116110000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116110000 +0300" stop="20260116123000 +0300" channel="MBC Iraq">
@@ -1470,34 +1458,22 @@
   <programme start="20260116193500 +0300" stop="20260116193500 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116193500 +0300" stop="20260116201500 +0300" channel="MBC Iraq">
+  <programme start="20260116193500 +0300" stop="20260116210000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116210000 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210500 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210500 +0300" stop="20260116220000 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116225000 +0300" channel="MBC Iraq">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116225000 +0300" stop="20260116230000 +0300" channel="MBC Iraq">
+  <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116233500 +0300" channel="MBC Iraq">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116233500 +0300" stop="20260116233500 +0300" channel="MBC Iraq">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116233500 +0300" stop="20260116233500 +0300" channel="MBC Iraq">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233500 +0300" stop="20260117000900 +0300" channel="MBC Iraq">
@@ -1545,7 +1521,10 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema">
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="Rotana Cinema">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema">
@@ -1578,25 +1557,19 @@
   <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Cinema">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116190000 +0300" stop="20260116210000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Cinema">
+  <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="Rotana Cinema">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Cinema">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Cinema">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Cinema">
@@ -1632,7 +1605,13 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Cinema Egy">
@@ -1665,16 +1644,13 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Cinema Egy">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116220000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Cinema Egy">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Cinema Egy">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Cinema Egy">
@@ -1734,7 +1710,16 @@
   <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060000 +0300" stop="20260116080000 +0300" channel="Rotana Khalijia">
+  <programme start="20260116060000 +0300" stop="20260116063000 +0300" channel="Rotana Khalijia">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116063000 +0300" stop="20260116071000 +0300" channel="Rotana Khalijia">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116071000 +0300" stop="20260116075000 +0300" channel="Rotana Khalijia">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116075000 +0300" stop="20260116080000 +0300" channel="Rotana Khalijia">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116100000 +0300" channel="Rotana Khalijia">
@@ -1830,7 +1815,13 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Classic">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Classic">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Rotana Classic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Classic">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116110000 +0300" channel="Rotana Classic">
@@ -1857,16 +1848,13 @@
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Classic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Classic">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Classic">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Classic">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="Rotana Classic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Classic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Classic">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Classic">
@@ -1932,13 +1920,22 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Drama">
@@ -2010,19 +2007,7 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="Rotana Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Drama">
@@ -2034,10 +2019,13 @@
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Drama">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Rotana Drama">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Drama">
@@ -2085,7 +2073,13 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Comedy">
@@ -2118,22 +2112,16 @@
   <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Rotana Comedy">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116190000 +0300" stop="20260116210000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Comedy">
+  <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116230000 +0300" channel="Rotana Comedy">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Comedy">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Comedy">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Comedy">
@@ -2202,13 +2190,22 @@
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Rotana Music">
@@ -2280,19 +2277,7 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="Rotana Music">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Rotana Music">
@@ -2304,10 +2289,13 @@
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Rotana Music">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Rotana Music">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Music">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Music">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Rotana Music">
@@ -2358,6 +2346,9 @@
   <programme start="20260116073000 +0300" stop="20260116090000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Star Movies">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116090000 +0300" stop="20260116095000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
@@ -2379,16 +2370,7 @@
   <programme start="20260116150000 +0300" stop="20260116183000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116183000 +0300" stop="20260116191700 +0300" channel="Star Movies">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116191700 +0300" stop="20260116191700 +0300" channel="Star Movies">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116191700 +0300" stop="20260116191700 +0300" channel="Star Movies">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116191700 +0300" stop="20260116193000 +0300" channel="Star Movies">
+  <programme start="20260116183000 +0300" stop="20260116193000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116193000 +0300" stop="20260116200000 +0300" channel="Star Movies">
@@ -2397,13 +2379,16 @@
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116210000 +0300" stop="20260116213700 +0300" channel="Star Movies">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213700 +0300" stop="20260116223000 +0300" channel="Star Movies">
+  <programme start="20260116210000 +0300" stop="20260116223000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260116231000 +0300" channel="Star Movies">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116231000 +0300" stop="20260116231000 +0300" channel="Star Movies">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116231000 +0300" stop="20260116231000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116231000 +0300" stop="20260117000000 +0300" channel="Star Movies">
@@ -2412,10 +2397,19 @@
   <programme start="20260117000000 +0300" stop="20260117020000 +0300" channel="Star Movies">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="SpaceToon">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116140000 +0300" channel="SpaceToon">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116140000 +0300" stop="20260116160500 +0300" channel="SpaceToon">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="SpaceToon">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="SpaceToon">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="SpaceToon">
@@ -2428,15 +2422,6 @@
     <title lang="ar"></title>
   </programme>
   <programme start="20260116180000 +0300" stop="20260116200000 +0300" channel="SpaceToon">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="SpaceToon">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="SpaceToon">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="SpaceToon">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="SpaceToon">
@@ -2484,13 +2469,22 @@
   <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060000 +0300" stop="20260116080000 +0300" channel="CN Arabic">
+  <programme start="20260116060000 +0300" stop="20260116070000 +0300" channel="CN Arabic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116080000 +0300" stop="20260116100000 +0300" channel="CN Arabic">
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="CN Arabic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="CN Arabic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116100000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116100000 +0300" stop="20260116100000 +0300" channel="CN Arabic">
@@ -2532,15 +2526,6 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="CN Arabic">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="CN Arabic">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="CN Arabic">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
@@ -2550,10 +2535,13 @@
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="CN Arabic">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="CN Arabic">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="CN Arabic">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="CN Arabic">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="CN Arabic">
@@ -2586,10 +2574,22 @@
   <programme start="20260116040000 +0300" stop="20260116053000 +0300" channel="Roya Kids">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116053000 +0300" stop="20260116073000 +0300" channel="Roya Kids">
+  <programme start="20260116053000 +0300" stop="20260116063000 +0300" channel="Roya Kids">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116063000 +0300" stop="20260116073000 +0300" channel="Roya Kids">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Roya Kids">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Roya Kids">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116073000 +0300" stop="20260116083000 +0300" channel="Roya Kids">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116083000 +0300" channel="Roya Kids">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116083000 +0300" stop="20260116093000 +0300" channel="Roya Kids">
@@ -2613,19 +2613,7 @@
   <programme start="20260116173000 +0300" stop="20260116183000 +0300" channel="Roya Kids">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya Kids">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya Kids">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya Kids">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116183000 +0300" stop="20260116213000 +0300" channel="Roya Kids">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Roya Kids">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116233000 +0300" channel="Roya Kids">
@@ -2634,22 +2622,13 @@
   <programme start="20260116053000 +0300" stop="20260116093000 +0300" channel="Nat Geo AD">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116093000 +0300" stop="20260116220000 +0300" channel="Nat Geo AD">
+  <programme start="20260116093000 +0300" stop="20260116233000 +0300" channel="Nat Geo AD">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Nat Geo AD">
+  <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Nat Geo AD">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Nat Geo AD">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116222000 +0300" channel="Nat Geo AD">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116222000 +0300" stop="20260116224500 +0300" channel="Nat Geo AD">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116224500 +0300" stop="20260116233000 +0300" channel="Nat Geo AD">
+  <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Nat Geo AD">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233000 +0300" stop="20260117013000 +0300" channel="Nat Geo AD">
@@ -2670,7 +2649,16 @@
   <programme start="20260116050000 +0300" stop="20260116060000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060000 +0300" stop="20260116090000 +0300" channel="Zee Alwan">
+  <programme start="20260116060000 +0300" stop="20260116070000 +0300" channel="Zee Alwan">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="Zee Alwan">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="Zee Alwan">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116100000 +0300" channel="Zee Alwan">
@@ -2730,16 +2718,13 @@
   <programme start="20260117000000 +0300" stop="20260117020000 +0300" channel="Zee Alwan">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116024500 +0300" stop="20260116201500 +0300" channel="Mix">
+  <programme start="20260116024500 +0300" stop="20260116223000 +0300" channel="Mix">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="Mix">
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="Mix">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="Mix">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116223000 +0300" channel="Mix">
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="Mix">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260117001500 +0300" channel="Mix">
@@ -2805,7 +2790,13 @@
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Mix One">
@@ -2859,19 +2850,7 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="Mix One">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="Mix One">
@@ -2883,10 +2862,13 @@
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Mix One">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Mix One">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Mix One">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Mix One">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Mix One">
@@ -2961,22 +2943,16 @@
   <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="DMC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="DMC Drama">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116201500 +0300" stop="20260116213000 +0300" channel="DMC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="DMC Drama">
+  <programme start="20260116213000 +0300" stop="20260116223000 +0300" channel="DMC Drama">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116223000 +0300" channel="DMC Drama">
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="DMC Drama">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="DMC Drama">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260117003000 +0300" channel="DMC Drama">
@@ -3042,7 +3018,13 @@
   <programme start="20260116063000 +0300" stop="20260116064500 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116064500 +0300" stop="20260116064500 +0300" channel="ON E">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116064500 +0300" stop="20260116070000 +0300" channel="ON E">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116080000 +0300" channel="ON E">
@@ -3051,7 +3033,13 @@
   <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116080000 +0300" stop="20260116080000 +0300" channel="ON E">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116080000 +0300" stop="20260116090000 +0300" channel="ON E">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116094500 +0300" channel="ON E">
@@ -3117,19 +3105,7 @@
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="ON E">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="ON E">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="ON E">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116200000 +0300" stop="20260116210000 +0300" channel="ON E">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116210000 +0300" stop="20260116210000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116210000 +0300" stop="20260116213000 +0300" channel="ON E">
@@ -3138,16 +3114,16 @@
   <programme start="20260116213000 +0300" stop="20260116214500 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116214500 +0300" stop="20260116214500 +0300" channel="ON E">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116214500 +0300" stop="20260116220000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="ON E">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="ON E">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="ON E">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="ON E">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="ON E">
@@ -3240,19 +3216,13 @@
   <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116183000 +0300" stop="20260116200000 +0300" channel="Dubai TV">
+  <programme start="20260116183000 +0300" stop="20260117000000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Dubai TV">
+  <programme start="20260117000000 +0300" stop="20260117000000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Dubai TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116213000 +0300" channel="Dubai TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260117000000 +0300" channel="Dubai TV">
+  <programme start="20260117000000 +0300" stop="20260117000000 +0300" channel="Dubai TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260117000000 +0300" stop="20260117000000 +0300" channel="Dubai TV">
@@ -3282,7 +3252,10 @@
   <programme start="20260116060000 +0300" stop="20260116060000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116060000 +0300" stop="20260116090000 +0300" channel="Sama Dubai">
+  <programme start="20260116060000 +0300" stop="20260116073000 +0300" channel="Sama Dubai">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116090000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116110000 +0300" channel="Sama Dubai">
@@ -3324,22 +3297,16 @@
   <programme start="20260116193000 +0300" stop="20260116213000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Sama Dubai">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Sama Dubai">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Sama Dubai">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116213000 +0300" stop="20260116220000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Sama Dubai">
+  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Sama Dubai">
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Sama Dubai">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Sama Dubai">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Sama Dubai">
@@ -3441,25 +3408,19 @@
   <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Saudi TV">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116213000 +0300" stop="20260116230000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116230000 +0300" stop="20260116230000 +0300" channel="Saudi TV">
+  <programme start="20260116230000 +0300" stop="20260116233000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116230000 +0300" stop="20260116233000 +0300" channel="Saudi TV">
+  <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Saudi TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233000 +0300" stop="20260117000000 +0300" channel="Saudi TV">
@@ -3474,28 +3435,37 @@
   <programme start="20260117003000 +0300" stop="20260117023000 +0300" channel="Saudi TV">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Kuwait TV">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116090000 +0300" stop="20260116190000 +0300" channel="Kuwait TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Kuwait TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116190000 +0300" stop="20260116220000 +0300" channel="Kuwait TV">
+  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Kuwait TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Kuwait TV">
+  <programme start="20260116190000 +0300" stop="20260116190000 +0300" channel="Kuwait TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Kuwait TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260117000000 +0300" channel="Kuwait TV">
+  <programme start="20260116190000 +0300" stop="20260116210000 +0300" channel="Kuwait TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116070000 +0300" stop="20260116090000 +0300" channel="Qatar TV">
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116070000 +0300" stop="20260116083000 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116090000 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116090000 +0300" stop="20260116090000 +0300" channel="Qatar TV">
@@ -3537,28 +3507,19 @@
   <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Qatar TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Qatar TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116220000 +0300" channel="Qatar TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116220000 +0300" stop="20260116230000 +0300" channel="Qatar TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116230000 +0300" stop="20260116233000 +0300" channel="Qatar TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Qatar TV">
+  <programme start="20260116220000 +0300" stop="20260116233000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233000 +0300" stop="20260116233000 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116233000 +0300" stop="20260116235500 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116235500 +0300" stop="20260116235500 +0300" channel="Qatar TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116235500 +0300" stop="20260116235500 +0300" channel="Qatar TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116235500 +0300" stop="20260117000000 +0300" channel="Qatar TV">
@@ -3609,10 +3570,22 @@
   <programme start="20260116062000 +0300" stop="20260116073000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116073000 +0300" stop="20260116081500 +0300" channel="Oman TV">
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116081500 +0300" stop="20260116094000 +0300" channel="Oman TV">
+  <programme start="20260116073000 +0300" stop="20260116075500 +0300" channel="Oman TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116075500 +0300" stop="20260116081500 +0300" channel="Oman TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116081500 +0300" stop="20260116081500 +0300" channel="Oman TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116081500 +0300" stop="20260116083000 +0300" channel="Oman TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116094000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116094000 +0300" stop="20260116094000 +0300" channel="Oman TV">
@@ -3660,25 +3633,19 @@
   <programme start="20260116202500 +0300" stop="20260116202500 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116202500 +0300" stop="20260116202500 +0300" channel="Oman TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116202500 +0300" stop="20260116202500 +0300" channel="Oman TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116202500 +0300" stop="20260116202500 +0300" channel="Oman TV">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116202500 +0300" stop="20260116232000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116232000 +0300" stop="20260116232000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116232000 +0300" stop="20260116232000 +0300" channel="Oman TV">
+  <programme start="20260116232000 +0300" stop="20260116234000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116232000 +0300" stop="20260116234000 +0300" channel="Oman TV">
+  <programme start="20260116234000 +0300" stop="20260116234000 +0300" channel="Oman TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116234000 +0300" stop="20260116234000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116234000 +0300" stop="20260116234000 +0300" channel="Oman TV">
@@ -3717,10 +3684,19 @@
   <programme start="20260117004000 +0300" stop="20260117024000 +0300" channel="Oman TV">
     <title lang="ar"></title>
   </programme>
+  <programme start="20260116070000 +0300" stop="20260116070000 +0300" channel="Jordan TV">
+    <title lang="ar"></title>
+  </programme>
   <programme start="20260116070000 +0300" stop="20260116140000 +0300" channel="Jordan TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116140000 +0300" stop="20260116160500 +0300" channel="Jordan TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="Jordan TV">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="Jordan TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116160500 +0300" stop="20260116160500 +0300" channel="Jordan TV">
@@ -3733,15 +3709,6 @@
     <title lang="ar"></title>
   </programme>
   <programme start="20260116180000 +0300" stop="20260116200000 +0300" channel="Jordan TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Jordan TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Jordan TV">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Jordan TV">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116200000 +0300" stop="20260116200000 +0300" channel="Jordan TV">
@@ -3762,10 +3729,22 @@
   <programme start="20260116040000 +0300" stop="20260116053000 +0300" channel="Roya">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116053000 +0300" stop="20260116073000 +0300" channel="Roya">
+  <programme start="20260116053000 +0300" stop="20260116063000 +0300" channel="Roya">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116063000 +0300" stop="20260116073000 +0300" channel="Roya">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Roya">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Roya">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116073000 +0300" stop="20260116083000 +0300" channel="Roya">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116083000 +0300" stop="20260116083000 +0300" channel="Roya">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116083000 +0300" stop="20260116093000 +0300" channel="Roya">
@@ -3789,19 +3768,7 @@
   <programme start="20260116173000 +0300" stop="20260116183000 +0300" channel="Roya">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116183000 +0300" stop="20260116183000 +0300" channel="Roya">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116183000 +0300" stop="20260116213000 +0300" channel="Roya">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="Roya">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116213000 +0300" stop="20260116233000 +0300" channel="Roya">
@@ -3861,22 +3828,16 @@
   <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="LBCI">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="LBCI">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="LBCI">
-    <title lang="ar"></title>
-  </programme>
-  <programme start="20260116201500 +0300" stop="20260116201500 +0300" channel="LBCI">
-    <title lang="ar"></title>
-  </programme>
   <programme start="20260116201500 +0300" stop="20260116213000 +0300" channel="LBCI">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116213000 +0300" channel="LBCI">
+  <programme start="20260116213000 +0300" stop="20260116223000 +0300" channel="LBCI">
     <title lang="ar"></title>
   </programme>
-  <programme start="20260116213000 +0300" stop="20260116223000 +0300" channel="LBCI">
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="LBCI">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116223000 +0300" stop="20260116223000 +0300" channel="LBCI">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116223000 +0300" stop="20260117003000 +0300" channel="LBCI">
@@ -3916,6 +3877,9 @@
     <title lang="ar"></title>
   </programme>
   <programme start="20260116170000 +0300" stop="20260116190000 +0300" channel="MTV Lebanon">
+    <title lang="ar"></title>
+  </programme>
+  <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Al Jadeed">
     <title lang="ar"></title>
   </programme>
   <programme start="20260116073000 +0300" stop="20260116073000 +0300" channel="Al Jadeed">
